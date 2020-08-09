@@ -2,7 +2,7 @@
 
 Links for git-prompt and bash profile with resources.
 
-![](https://media.giphy.com/media/QVOeX6dwObg8znQjZ8/giphy.gif)
+![](giffy.gif)
 
 ## Git prompt support
 This script allows you to see repositor status in your prompt
