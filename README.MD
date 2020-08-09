@@ -2,6 +2,8 @@
 
 Links for git-prompt and bash profile with resources.
 
+![](https://media.giphy.com/media/QVOeX6dwObg8znQjZ8/giphy.gif)
+
 ## Git prompt support
 This script allows you to see repositor status in your prompt
 ## enable
@@ -9,8 +11,6 @@ This script allows you to see repositor status in your prompt
 2. Add the following line to your .bashrc :  
 `source ~/.git-prompt.sh`
 
-## todo
-add before & after image that shows on terminal
 
 
 ## Git completion support
